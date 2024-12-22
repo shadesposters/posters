@@ -1,0 +1,106 @@
+{
+    "jpbl1": {
+        "filepath": "anime/bluelock-1.jpg",
+        "keywords": ["anime", "bluelock"]
+    },
+
+    "jpbl2": {
+        "filepath": "anime/bluelock-2.jpg",
+        "keywords": ["anime", "bluelock"]
+    },
+
+    "jpbl3": {
+        "filepath": "anime/bluelock-3.jpg",
+        "keywords": ["anime", "bluelock"]
+    },
+
+    "jpbl4": {
+        "filepath": "anime/bluelock-4.jpg",
+        "keywords": ["anime", "bluelock"]
+    },
+
+    "jpcsm": {
+        "filepath": "anime/chainsaw-1.jpg",
+        "keywords": ["anime", "chainsaw"]
+    },
+
+    "jpcsm2": {
+        "filepath": "anime/chainsaw-2.jpg",
+        "keywords": ["anime", "chainsaw"]
+    },
+
+    "jpcsm3": {
+        "filepath": "anime/chainsaw-3.jpg",
+        "keywords": ["anime", "chainsaw"]
+    },
+
+    "jpcsm4": {
+        "filepath": "anime/chainsaw-4.jpg",
+        "keywords": ["anime", "chainsaw"]
+    },
+
+    "jpcsm5": {
+        "filepath": "anime/chainsaw-5.jpg",
+        "keywords": ["anime", "chainsaw"]
+    },
+
+    "jpdn": {
+        "filepath": "anime/deathnote.jpg",
+        "keywords": ["anime", "deathnote"]
+    },
+
+    "jpds-1": {
+        "filepath": "anime/demonslayer-1.jpg",
+        "keywords": ["anime", "demonslayer"]
+    },
+
+    "jpds-2": {
+        "filepath": "anime/demonslayer-2.jpg",
+        "keywords": ["anime", "demonslayer"]
+    },
+
+    "jphq": {
+        "filepath": "anime/haikyuu.jpg",
+        "keywords": ["anime", "haikyuu"]
+    },
+
+    "jpjjk1": {
+        "filepath": "anime/jjk-1.jpg",
+        "keywords": ["anime", "jjk"]
+    },
+
+    "jpna": {
+        "filepath": "anime/naruto.jpg",
+        "keywords": ["anime", "naruto"]
+    },
+
+    "jpop1": {
+        "filepath": "anime/onepiece-1.jpg",
+        "keywords": ["anime", "onepiece"]
+    },
+
+    "jpop2": {
+        "filepath": "anime/onepiece-2.jpg",
+        "keywords": ["anime", "onepiece"]
+    },
+
+    "jpop3": {
+        "filepath": "anime/onepiece-3.jpg",
+        "keywords": ["anime", "onepiece"]
+    },
+
+    "jpopm": {
+        "filepath": "anime/opm.jpg",
+        "keywords": ["anime", "onepunchman"]
+    },
+
+    "jpper": {
+        "filepath": "anime/persona.jpg",
+        "keywords": ["anime", "persona"]
+    },
+
+    "jpvb": {
+        "filepath": "anime/vagabond.jpg",
+        "keywords": ["anime", "vagabond"]
+    }
+}
